@@ -1,0 +1,12 @@
+{
+  "name": "rabbitmq-poc",
+  "version": "0.0.1",
+  "description": "POC of rabbitmq messaging",
+  "main": "index.js",
+  "author": "Zizaco <zizaco@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
